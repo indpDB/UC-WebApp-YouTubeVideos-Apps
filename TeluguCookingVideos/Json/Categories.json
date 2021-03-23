@@ -1,0 +1,104 @@
+﻿{
+    "Categories": [
+        {
+            "EnglishHeader": "Tiffens",
+            "LanguageHeader": "టిఫిన్లు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/01.png"
+        },
+        {
+            "EnglishHeader": "Coffie",
+            "LanguageHeader": "కాఫీ & టీ ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/02.png"
+        },
+        {
+            "EnglishHeader": "RiceItems",
+            "LanguageHeader": "బియ్యం వంటకాలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/03.png"
+        },
+        {
+            "EnglishHeader": "Curry",
+            "LanguageHeader": "కూర వంటకాలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/04.png"
+        },
+        {
+            "EnglishHeader": "Curd Items",
+            "LanguageHeader": "పెరుగు వంటకాలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/05.png"
+        },
+        {
+            "EnglishHeader": "Pickkels",
+            "LanguageHeader": "పచ్చలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/06.png"
+        },
+        {
+            "EnglishHeader": "Sweets",
+            "LanguageHeader": "స్వీట్లు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/07.png"
+        },
+        {
+            "EnglishHeader": "Desserts",
+            "LanguageHeader": "డెజర్ట్స్ ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/08.png"
+        },
+        {
+            "EnglishHeader": "Drinks",
+            "LanguageHeader": "పానీయాలు",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/09.png"
+        },
+        {
+            "EnglishHeader": "Juise",
+            "LanguageHeader": "పండ్ల రసం",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/10.png"
+        },
+        {
+            "EnglishHeader": "snacks",
+            "LanguageHeader": "స్నాక్స్ ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/11.png"
+        },
+        {
+            "EnglishHeader": "Kitty party Recipes",
+            "LanguageHeader": "కిట్టి పార్టీ వంటకాలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/12.png"
+        },
+        {
+            "EnglishHeader": "Festival Recipes",
+            "LanguageHeader": "పండుగ వంటకాలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/13.png"
+        },
+        {
+            "EnglishHeader": "Restaurant Style Recipes",
+            "LanguageHeader": "రెస్టారెంట్ స్టైల్ వంటకాలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/14.png"
+        },
+        {
+            "EnglishHeader": "chocolates",
+            "LanguageHeader": "చాక్లెట్లు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/15.png"
+        },
+        {
+            "EnglishHeader": "Cakes",
+            "LanguageHeader": "కేకులు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/16.png"
+        },
+        {
+            "EnglishHeader": "Chicken Recipes",
+            "LanguageHeader": "చికెన్ వంటకాలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/17.png"
+        },
+        {
+            "EnglishHeader": "Mutton Recipes",
+            "LanguageHeader": "మటన్ వంటకాలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/18.png"
+        },
+        {
+            "EnglishHeader": "Paneer recipes",
+            "LanguageHeader": "పన్నీర్ వంటకాలు ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/19.png"
+        },
+        {
+            "EnglishHeader": "Kabab recipe",
+            "LanguageHeader": "కబాబ్ రెసిపీ ",
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/20.png"
+        }
+    ]
+}
