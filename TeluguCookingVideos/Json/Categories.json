@@ -3,102 +3,122 @@
         {
             "EnglishHeader": "Tiffens",
             "LanguageHeader": "టిఫిన్లు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/01.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/01.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Coffie",
             "LanguageHeader": "కాఫీ & టీ ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/02.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/02.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "RiceItems",
             "LanguageHeader": "బియ్యం వంటకాలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/03.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/03.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Curry",
             "LanguageHeader": "కూర వంటకాలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/04.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/04.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Curd Items",
             "LanguageHeader": "పెరుగు వంటకాలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/05.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/05.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Pickkels",
             "LanguageHeader": "పచ్చలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/06.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/06.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Sweets",
             "LanguageHeader": "స్వీట్లు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/07.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/07.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Desserts",
             "LanguageHeader": "డెజర్ట్స్ ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/08.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/08.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Drinks",
             "LanguageHeader": "పానీయాలు",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/09.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/09.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Juise",
             "LanguageHeader": "పండ్ల రసం",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/10.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/10.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "snacks",
             "LanguageHeader": "స్నాక్స్ ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/11.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/11.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Kitty party Recipes",
             "LanguageHeader": "కిట్టి పార్టీ వంటకాలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/12.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/12.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Festival Recipes",
             "LanguageHeader": "పండుగ వంటకాలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/13.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/13.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Restaurant Style Recipes",
             "LanguageHeader": "రెస్టారెంట్ స్టైల్ వంటకాలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/14.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/14.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "chocolates",
             "LanguageHeader": "చాక్లెట్లు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/15.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/15.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Cakes",
             "LanguageHeader": "కేకులు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/16.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/16.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Chicken Recipes",
             "LanguageHeader": "చికెన్ వంటకాలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/17.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/17.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Mutton Recipes",
             "LanguageHeader": "మటన్ వంటకాలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/18.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/18.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Paneer recipes",
             "LanguageHeader": "పన్నీర్ వంటకాలు ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/19.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/19.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         },
         {
             "EnglishHeader": "Kabab recipe",
             "LanguageHeader": "కబాబ్ రెసిపీ ",
-            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/20.png"
+            "Icon": "https://raw.githubusercontent.com/indpDB/UC-WebApp-YouTubeVideos-Apps/main/TeluguCookingVideos/Categories/20.png",
+            "JsonUrl": "https://raw.githubusercontent.com/WallpapersWorld/NewsPapers/master/VideoData.json"
         }
     ]
 }
